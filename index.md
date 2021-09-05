@@ -29,6 +29,6 @@
 
 | piatto/gg |lu | ma | me | gio | ve | sa | do |
 | ---- | --- | --- | --- | --- | --- | --- | ---- |
-| primo   | Pasta al pesto | Pasta e lenticchie | Polenta | Passato di verdure | Risotto alla parmigiana |  |   |
-| secondo | Frittata con patate| Lonza alla pizzaiola | Cotoletta di tacchino | Brasato di manzo | Platessa impanata |   |   |
+| primo   | Pasta al pesto | Insalata di pasta | CusCus | Pasta con alici | Insalata di riso |  |   |
+| secondo | Frittata con patate| Lonza alla pizzaiola | Cotoletta di tacchino | Tonno | Platessa impanata |   |   |
 | contorno | Finocchi | Carote    | Piselli  | Insalata   | Purè   |  |   |
